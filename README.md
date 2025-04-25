@@ -36,13 +36,6 @@ CodeCompanion is an advanced AI-powered code companion that provides intelligent
 
 CodeCompanion includes a demo mode that works without requiring an API key. This allows you to explore the app's features with pre-generated responses for example code.
 
-### API Key Setup (Optional)
-
-For full functionality with real AI-powered analysis:
-
-1. Obtain an OpenAI API key from [https://platform.openai.com/signup](https://platform.openai.com/signup)
-2. Add your API key when prompted in the application
-
 ## How to Use
 
 1. **Enter your code**: Paste or type your code in the left panel
